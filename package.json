@@ -1,0 +1,10 @@
+{
+  "name": "protractor_practice",
+  "version": "1.0.0",
+  "dependencies": {
+    "protractor": "^5.4.2",
+    "jasmine": "^3.3.1",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1"
+  }
+}
